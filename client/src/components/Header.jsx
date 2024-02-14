@@ -42,6 +42,7 @@ const Header = () => {
             </li>
           </Link>
         </ul>
+        <p>welcome</p>
       </div>
     </header>
   );
